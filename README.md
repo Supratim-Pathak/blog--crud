@@ -19,6 +19,12 @@ Submission of Node React Take Home Assignment of Matrix Media Solutions Pvt.Ltd 
 git clone https://github.com/Supratim-Pathak/blog--crud.git
 ```
 
+- Get inside the project folder
+
+```bash
+cd blog--crud
+```
+
 - To install the dependencies run the following command:
 
 ```bash
