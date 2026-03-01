@@ -44,13 +44,13 @@ npm install
 - To start the docker containers run the following command:
 
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 - To stop the docker containers run the following command:
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 ---
@@ -61,3 +61,11 @@ docker-compose down
 backend (For backend setup)
 frontend (For frontend setup)
 ```
+
+## Access the application
+
+- Backend: http://localhost:5001/api
+- Frontend: http://localhost:8080
+- MongoDB Express: http://localhost:8081
+
+---
