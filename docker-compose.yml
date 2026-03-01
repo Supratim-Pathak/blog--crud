@@ -24,7 +24,7 @@ services:
     depends_on:
       - mongo
     networks:
-      - blog_net
+      - blog_net_v2
   backend:
     build:
       context: ./backend
@@ -40,7 +40,7 @@ services:
     depends_on:
       - mongo
     networks:
-      - blog_net
+      - blog_net_v2
 
   frontend:
     build:
@@ -55,11 +55,11 @@ services:
     depends_on:
       - backend
     networks:
-      - blog_net
+      - blog_net_v2
 
 volumes:
   mongo_data:
 
 networks:
-  blog_net:
+  blog_net_v2:
     driver: bridge
