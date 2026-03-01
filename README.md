@@ -25,14 +25,14 @@ git clone https://github.com/Supratim-Pathak/blog--crud.git
 cd blog--crud
 ```
 
-- To install the dependencies run the following command:
+- To install the dependencies of backend run the following command:
 
 ```bash
 cd backend
 npm install
 ```
 
-- To install the dependencies run the following command:
+- To install the dependencies of frontend run the following command:
 
 ```bash
 cd frontend
