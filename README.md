@@ -55,5 +55,3 @@ docker-compose down
 backend (For backend setup)
 frontend (For frontend setup)
 ```
-
-# blog--crud
