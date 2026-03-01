@@ -70,7 +70,7 @@ docker-compose.yml (For docker configuration)
 README.md (For project documentation)
 ```
 
-## Access the application
+## Access the application locally
 
 - Backend: http://localhost:5001/api
 - Frontend: http://localhost:8080
