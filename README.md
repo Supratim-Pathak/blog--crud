@@ -49,10 +49,11 @@ docker-compose down
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 ```text
 backend (For backend setup)
 frontend (For frontend setup)
 ```
+
 # blog--crud
