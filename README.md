@@ -2,7 +2,13 @@
 
 Submission of Node React Take Home Assignment of Matrix Media Solutions Pvt.Ltd by Supratim Pathak.
 
+## Live link application
+
+https://blog-frontend-five-self.vercel.app/
+
 ## Getting Started
+
+##### To run the application locally follow the steps below.
 
 ### Prerequisites
 
