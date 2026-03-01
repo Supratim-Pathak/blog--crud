@@ -41,13 +41,13 @@ npm install
 
 2. **Run the Server**:
 
-- To start the docker containers run the following command:
+- To start the docker containers of backend and frontend run the following command in the root folder:
 
 ```bash
 docker compose up --build
 ```
 
-- To stop the docker containers run the following command:
+- To stop the docker containers of backend and frontend run the following command in the root folder:
 
 ```bash
 docker compose down
@@ -58,14 +58,16 @@ docker compose down
 ## Project Structure
 
 ```text
-backend (For backend setup)
-frontend (For frontend setup)
+backend (For backend codebase)
+frontend (For frontend codebase)
+docker-compose.yml (For docker configuration)
+README.md (For project documentation)
 ```
 
 ## Access the application
 
 - Backend: http://localhost:5001/api
 - Frontend: http://localhost:8080
-- MongoDB Express: http://localhost:8081
+- Mongo-Express: http://localhost:8081
 
 ---
