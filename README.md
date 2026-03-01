@@ -1,4 +1,4 @@
-# 📝 Blogcrud - Backend Mastery
+# Blogcrud - Backend Mastery
 
 Submission of Node React Take Home Assignment of Matrix Media Solutions Pvt.Ltd by Supratim Pathak.
 
